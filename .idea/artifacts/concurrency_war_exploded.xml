@@ -31,8 +31,14 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.21.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.21.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.3.21.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-tomcat:1.5.18.RELEASE" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:8.5.35" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-annotations-api:8.5.35" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:8.5.35" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:8.5.35" />
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.21.RELEASE" />
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.16.10" />
         </element>
       </element>
       <element id="directory" name="META-INF">
